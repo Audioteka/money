@@ -1,0 +1,19 @@
+{
+    "name": "audioteka/money",
+    "require-dev": {
+        "phpunit/phpunit": "^5.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paweł Łuczkiewicz",
+            "email": "pawel.luczkiewicz@audioteka.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Audioteka\\Money\\": "src"
+        }
+    }
+}
